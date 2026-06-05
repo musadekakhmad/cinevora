@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/robots.txt/route": "/robots.txt",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/contact/page": "/contact",
+  "/movie/[slug]/stream/page": "/movie/[slug]/stream",
+  "/movie/decade/[decade]/page": "/movie/decade/[decade]",
+  "/movie/genre/[genreName]/page": "/movie/genre/[genreName]",
+  "/movie/year/[year]/page": "/movie/year/[year]",
+  "/people/page": "/people",
+  "/person/[id]/page": "/person/[id]",
+  "/rankings/page": "/rankings",
+  "/rss/page": "/rss",
+  "/search/page": "/search",
+  "/tv-show/[slug]/page": "/tv-show/[slug]",
+  "/tv-show/[slug]/stream/page": "/tv-show/[slug]/stream",
+  "/tv-show/genre/[genreName]/page": "/tv-show/genre/[genreName]",
+  "/dmca/page": "/dmca",
+  "/movie/[slug]/page": "/movie/[slug]",
+  "/privacy-policy/page": "/privacy-policy",
+  "/terms-of-service/page": "/terms-of-service",
+  "/page": "/"
+}

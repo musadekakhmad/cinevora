@@ -1,0 +1,23 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/contact/page": "app/contact/page.js",
+  "/movie/[slug]/stream/page": "app/movie/[slug]/stream/page.js",
+  "/movie/decade/[decade]/page": "app/movie/decade/[decade]/page.js",
+  "/movie/genre/[genreName]/page": "app/movie/genre/[genreName]/page.js",
+  "/movie/year/[year]/page": "app/movie/year/[year]/page.js",
+  "/people/page": "app/people/page.js",
+  "/person/[id]/page": "app/person/[id]/page.js",
+  "/rankings/page": "app/rankings/page.js",
+  "/rss/page": "app/rss/page.js",
+  "/search/page": "app/search/page.js",
+  "/tv-show/[slug]/page": "app/tv-show/[slug]/page.js",
+  "/tv-show/[slug]/stream/page": "app/tv-show/[slug]/stream/page.js",
+  "/tv-show/genre/[genreName]/page": "app/tv-show/genre/[genreName]/page.js",
+  "/dmca/page": "app/dmca/page.js",
+  "/movie/[slug]/page": "app/movie/[slug]/page.js",
+  "/privacy-policy/page": "app/privacy-policy/page.js",
+  "/terms-of-service/page": "app/terms-of-service/page.js",
+  "/page": "app/page.js"
+}
